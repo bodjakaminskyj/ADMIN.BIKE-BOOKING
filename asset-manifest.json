@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BIKE-BOOKING/static/css/main.fc224bfb.chunk.css",
+    "main.js": "/BIKE-BOOKING/static/js/main.7b7dfe30.chunk.js",
+    "main.js.map": "/BIKE-BOOKING/static/js/main.7b7dfe30.chunk.js.map",
+    "runtime-main.js": "/BIKE-BOOKING/static/js/runtime-main.e4b140e2.js",
+    "runtime-main.js.map": "/BIKE-BOOKING/static/js/runtime-main.e4b140e2.js.map",
+    "static/js/2.183b51d8.chunk.js": "/BIKE-BOOKING/static/js/2.183b51d8.chunk.js",
+    "static/js/2.183b51d8.chunk.js.map": "/BIKE-BOOKING/static/js/2.183b51d8.chunk.js.map",
+    "static/js/3.1c68496c.chunk.js": "/BIKE-BOOKING/static/js/3.1c68496c.chunk.js",
+    "static/js/3.1c68496c.chunk.js.map": "/BIKE-BOOKING/static/js/3.1c68496c.chunk.js.map",
+    "index.html": "/BIKE-BOOKING/index.html",
+    "static/css/main.fc224bfb.chunk.css.map": "/BIKE-BOOKING/static/css/main.fc224bfb.chunk.css.map",
+    "static/js/2.183b51d8.chunk.js.LICENSE.txt": "/BIKE-BOOKING/static/js/2.183b51d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4b140e2.js",
+    "static/js/2.183b51d8.chunk.js",
+    "static/css/main.fc224bfb.chunk.css",
+    "static/js/main.7b7dfe30.chunk.js"
+  ]
+}
